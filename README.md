@@ -12,4 +12,4 @@ email will be sent to the user for the payment received. The
 invoice will contain the amount.
 ◇ On any page / email, only basic information is needed.
 
-check the website at: 
+check the website at: https://lorandsouza.github.io/Grip2021/
