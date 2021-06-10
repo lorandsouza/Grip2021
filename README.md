@@ -1,6 +1,5 @@
-#TSF_GRIP2021
 # LORAN D'SOUZA
-
+# TSF_GRIP2021
 PAYMENT GATEWAY INTEGRATION 
 ◇ Create a simple website where payment gateway is integrated.
 ◇ There will be a simple donate button on homepage. On clicking
